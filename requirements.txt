@@ -1,2 +1,3 @@
 srteamlit
 pandas
+matplotlib
